@@ -1,0 +1,55 @@
+{
+    "navbarComponent": {
+        "list": [
+            {
+                "name": "Collection"
+            },
+            {
+                "name": "Men"
+            },
+            {
+                "name": "Women"
+            },
+            {
+                "name": "About"
+            },
+            {
+                "name": "Contact"
+            }
+        ]
+    },
+    "cartComponent": {
+        "title": "Cart",
+        "price": "Price",
+        "quantity": "Quantity",
+        "check": "Checkout"
+    },
+    "carouselComponent": {
+        "list": [
+            {
+                "url": "image-product-1.jpg"
+            },
+            {
+                "url": "image-product-2.jpg"
+            },
+            {
+                "url": "image-product-3.jpg"
+            },
+            {
+                "url": "image-product-4.jpg"
+            }
+        ]
+    },
+    "detailsComponent": {
+        "product": {
+            "company": "sneaker company",
+            "name": "Fall Limited Edition",
+            "name_bis": "Sneakers",
+            "description": "These low-profile sneakers are your perfect casual wear",
+            "description_bis": "companion. Featuring a durable rubber outer sale, they'll withstand everything the weather can offer",
+            "price": 125,
+            "reduction": 50,
+            "before_price": 250
+        }
+    }
+}
