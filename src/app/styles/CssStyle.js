@@ -110,6 +110,7 @@ const CssStyle = {
             [`@media (max-width: ${breakpointXs})`]: { // eslint-disable-line no-useless-computed-key
                 top: '15rem',
                 padding: '.5rem',
+                overflowX: 'hidden'
             }
         }
     },
