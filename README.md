@@ -4,10 +4,10 @@ Project Link: https://helpful-cocada-95b7e6.netlify.app/
 
 # Install project
 
-git clone
-go to the folder
-npm install to install node module
-npm run start to to launch the project on localhost 3000
+- git clone
+- go to the folder
+- npm install to install node module
+- npm run start to to launch the project on localhost 3000
 
 # Features
 
